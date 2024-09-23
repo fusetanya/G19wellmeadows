@@ -76,6 +76,36 @@
     <Compile Include="Class1.vb">
       <SubType>Component</SubType>
     </Compile>
+    <Compile Include="FormMain.Designer.vb">
+      <DependentUpon>FormMain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPatient.Designer.vb">
+      <DependentUpon>FormPatient.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormPatient.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSearchPatient.Designer.vb">
+      <DependentUpon>FormSearchPatient.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormSearchPatient.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSearchWardt.Designer.vb">
+      <DependentUpon>FormSearchWard.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormSearchWard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormWard.Designer.vb">
+      <DependentUpon>FormWard.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormWard.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="roundtextbox.vb">
       <SubType>Component</SubType>
     </Compile>
@@ -95,6 +125,7 @@
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
       <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <Compile Include="My Project\Resources.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -110,6 +141,21 @@
   <ItemGroup>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMain.resx">
+      <DependentUpon>FormMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPatient.resx">
+      <DependentUpon>FormPatient.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSearchPatient.resx">
+      <DependentUpon>FormSearchPatient.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSearchWardt.resx">
+      <DependentUpon>FormSearchWard.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormWard.resx">
+      <DependentUpon>FormWard.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
@@ -167,6 +213,36 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\login_button %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fewfef.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ggggg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1-Photoroom.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2-Photoroom.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3-Photoroom.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4-Photoroom.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5-Photoroom.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6-Photoroom.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7-Photoroom.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Remove-bg.ai_1727027116255.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>

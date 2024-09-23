@@ -10,3 +10,7 @@ C:\Users\carrybit\Desktop\1101173\wellmeadows\wellmeadows\obj\Debug\wellmeadows.
 C:\Users\carrybit\Desktop\1101173\wellmeadows\wellmeadows\obj\Debug\wellmeadows.xml
 C:\Users\carrybit\Desktop\1101173\wellmeadows\wellmeadows\obj\Debug\wellmeadows.pdb
 C:\Users\carrybit\Desktop\1101173\wellmeadows\wellmeadows\obj\Debug\wellmeadows.Form1.resources
+C:\Users\tanak\Downloads\G19wellmeadows-master\G19wellmeadows-master\wellmeadows\obj\Debug\wellmeadows.vbproj.AssemblyReference.cache
+C:\Users\tanak\Downloads\G19wellmeadows-master\G19wellmeadows-master\wellmeadows\obj\Debug\wellmeadows.exe
+C:\Users\tanak\Downloads\G19wellmeadows-master\G19wellmeadows-master\wellmeadows\obj\Debug\wellmeadows.xml
+C:\Users\tanak\Downloads\G19wellmeadows-master\G19wellmeadows-master\wellmeadows\obj\Debug\wellmeadows.pdb
